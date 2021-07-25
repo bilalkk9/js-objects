@@ -64,4 +64,38 @@
 // {name:'shirt',price:'150',quantity:'1'},
 // {name:'pen',price:'20',quantity:'3'},
 // ];
-    
+
+// Task No:03
+//Calculate total price of each item and all items;
+
+// var itemArr = [
+//   { name: "cookie", price: "50", quantity: "3" },
+//   { name: "juice", price: "40", quantity: "2" },
+//   { name: "shirt", price: "150", quantity: "4" },
+//   { name: "pen", price: "30", quantity: "2" },
+// ];
+
+// for (i = 0; i < itemArr.length; i++) {
+//   var a =
+//     "The total price of " +
+//     itemArr[i].name +
+//     " is " +
+//     itemArr[i].price * itemArr[i].quantity;
+//   console.log(a);
+// }
+
+// Task No:04
+//Suppose you want to check population of your area, their educations and professions
+
+// function Area(name, gender, address, education, profession) {
+//   this.name = name;
+//   this.gender = gender;
+//   this.address = address;
+//   this.education = education;
+//   this.profession = profession;
+// }
+// var person1 = new Area("ali", "male", "abc street", "fsc", "plumber");
+// var person2 = new Area("asad", "male", "xyz street", "matric", "shopkeeper");
+// var person3 = new Area("amir", "male", "asd street", "graduation", "teacher");
+// var person4 = new Area("asim", "male", "cde street", "masters", "banker");
+// console.log(person1);
